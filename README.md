@@ -43,7 +43,7 @@ A Generative AI application that transforms black-and-white sketches or line art
 
 ## Project Structure
 ```text
-Gen-AI-Semantic-Sketch-Renderer/
+AI-Semantic-Sketch-Renderer/
 ├── assets/
 │   └── (Screenshots(.png)
 ├── .env (Gemini API Key)
@@ -52,8 +52,8 @@ Gen-AI-Semantic-Sketch-Renderer/
 ```
 ## ⚙️ Installation
 ```bash
-git clone https://github.com/yourusername/gen-ai-semantic-renderer
-cd gen-ai-semantic-renderer
+git clone https://github.com/yourusername/ai-semantic-sketch-renderer
+cd ai-semantic-sketch-renderer
 pip install -r requirements.txt
 ```
 
