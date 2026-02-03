@@ -2,5 +2,12 @@
 outputs/
 cache/
 __pycache__/
+
+# Ignore all images globally
 *.png
 *.jpg
+*.jpeg
+
+# BUT do not ignore the assets folder
+!assets/
+!assets/**
